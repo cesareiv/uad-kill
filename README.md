@@ -5,7 +5,7 @@ Since the UAD driver is a live driver, it is constantly utilizing CPU, whether y
 
 # To use:
 ```bash
-./uad-kill 
+./uad-kill.sh 
 ``` 
 
 Alternatively, run the included Automator executable.
